@@ -1,2 +1,2 @@
 
-![Shankar Chakraborty's Cover](./Shankar Chakraborty's-cover.png)
+![Shankar Chakraborty's Cover](./cover.png)
